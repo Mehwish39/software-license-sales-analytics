@@ -1,0 +1,13 @@
+product_id,product_name,edition,billing_type,list_price
+P001,SecureDesk,Starter,Monthly,29.0
+P002,SecureDesk,Professional,Monthly,59.0
+P003,SecureDesk,Enterprise,Annual,699.0
+P004,CloudVault,Starter,Monthly,19.0
+P005,CloudVault,Professional,Monthly,49.0
+P006,CloudVault,Enterprise,Annual,599.0
+P007,DataVision,Starter,Monthly,39.0
+P008,DataVision,Professional,Monthly,79.0
+P009,DataVision,Enterprise,Annual,899.0
+P010,TeamFlow,Starter,Monthly,15.0
+P011,TeamFlow,Professional,Monthly,35.0
+P012,TeamFlow,Enterprise,Annual,449.0

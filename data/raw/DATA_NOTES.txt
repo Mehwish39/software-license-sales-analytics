@@ -1,0 +1,3 @@
+Synthetic software-license sales dataset for portfolio use.
+Contains a small number of intentional raw-data quality issues for dbt exercises,
+including duplicates, nulls, inconsistent labels, invalid dates/values, and orphan references.

@@ -1,0 +1,504 @@
+customer_id,company_name,industry,country,company_size,signup_date
+C0001,Company 001 Ltd,Education,Spain,Medium,2023-10-13
+C0002,Company 002 Ltd,Education,Spain,Small,2025-05-14
+C0003,Company 003 Ltd,Finance,UK,Small,2024-02-12
+C0004,Company 004 Ltd,Manufacturing,Spain,Enterprise,2024-07-23
+C0005,Company 005 Ltd,Professional Services,United States,Enterprise,2024-11-27
+C0006,Company 006 Ltd,Professional Services,France,Small,2025-02-17
+C0007,Company 007 Ltd,Healthcare,United Kingdom,Small,2025-07-29
+C0008,Company 008 Ltd,Retail,Ireland,Large,2025-01-10
+C0009,Company 009 Ltd,Technology,Ireland,Medium,2024-08-15
+C0010,Company 010 Ltd,Professional Services,United Kingdom,Large,2025-07-17
+C0011,Company 011 Ltd,Finance,Spain,Medium,2024-06-30
+C0012,Company 012 Ltd,Education,Spain,Medium,2025-12-29
+C0013,Company 013 Ltd,Retail,Spain,Medium,2024-10-26
+C0014,Company 014 Ltd,Technology,United States,Small,2024-10-08
+C0015,Company 015 Ltd,Finance,Netherlands,Large,2024-03-11
+C0016,Company 016 Ltd,Education,Spain,Large,2023-10-13
+C0017,Company 017 Ltd,Manufacturing,Germany,Enterprise,2025-03-28
+C0018,Company 018 Ltd,Finance,France,Small,2023-04-07
+C0019,Company 019 Ltd,Education,United States,Enterprise,2023-05-11
+C0020,Company 020 Ltd,Retail,Netherlands,Small,2023-08-23
+C0021,Company 021 Ltd,Professional Services,Spain,Large,2023-08-17
+C0022,Company 022 Ltd,,France,Large,2025-10-22
+C0023,Company 023 Ltd,Technology,United States,Large,2025-11-05
+C0024,Company 024 Ltd,Healthcare,Ireland,Small,2024-10-25
+C0025,Company 025 Ltd,Professional Services,netherlands,Medium,2023-04-29
+C0026,Company 026 Ltd,Technology,Germany,Enterprise,2023-05-22
+C0027,Company 027 Ltd,Finance,United States,Enterprise,2023-12-05
+C0028,Company 028 Ltd,Manufacturing,France,Medium,2024-02-16
+C0029,Company 029 Ltd,Education,Spain,Enterprise,2025-11-25
+C0030,Company 030 Ltd,Finance,Netherlands,Small,2024-04-16
+C0031,Company 031 Ltd,Technology,Ireland,Small,2024-04-13
+C0032,Company 032 Ltd,Professional Services,United Kingdom,Medium,2024-07-24
+C0033,Company 033 Ltd,Manufacturing,Spain,Enterprise,2024-05-12
+C0034,Company 034 Ltd,Retail,United States,Small,2025-06-01
+C0035,Company 035 Ltd,Retail,France,Small,2023-07-21
+C0036,Company 036 Ltd,Healthcare,United Kingdom,Small,2024-05-24
+C0037,Company 037 Ltd,Retail,Germany,Medium,2024-07-24
+C0038,Company 038 Ltd,Technology,Netherlands,Small,2023-04-14
+C0039,Company 039 Ltd,,Spain,Small,2024-04-29
+C0040,Company 040 Ltd,Retail,Germany,Enterprise,2023-05-01
+C0041,Company 041 Ltd,Retail,Germany,Enterprise,2024-08-07
+C0042,Company 042 Ltd,Education,Netherlands,Enterprise,2023-11-14
+C0043,Company 043 Ltd,Technology,Germany,Small,2024-10-04
+C0044,Company 044 Ltd,Manufacturing,United kingdom,Medium,2023-04-27
+C0045,Company 045 Ltd,Finance,Ireland,Small,2024-04-26
+C0046,Company 046 Ltd,Manufacturing,Netherlands,Small,2023-06-17
+C0047,Company 047 Ltd,Manufacturing,Netherlands,Large,2024-02-23
+C0048,Company 048 Ltd,Finance,Spain,Medium,2024-09-06
+C0049,Company 049 Ltd,Professional Services,Netherlands,Small,2025-07-27
+C0050,Company 050 Ltd,Technology,Ireland,Medium,2025-11-02
+C0051,Company 051 Ltd,Healthcare,France,Medium,2025-01-26
+C0052,Company 052 Ltd,Professional Services,France,Large,2025-12-19
+C0053,Company 053 Ltd,Manufacturing,United Kingdom,Small,2023-10-03
+C0054,Company 054 Ltd,Technology,France,Medium,2024-07-11
+C0055,Company 055 Ltd,Education,France,Large,2025-11-01
+C0056,Company 056 Ltd,Professional Services,Netherlands,Enterprise,2024-07-20
+C0057,Company 057 Ltd,Education,UK,Medium,2025-06-23
+C0058,Company 058 Ltd,,Ireland,Small,2023-11-02
+C0059,Company 059 Ltd,Manufacturing,ireland,Enterprise,2023-09-19
+C0060,Company 060 Ltd,Professional Services,United Kingdom,Small,2025-01-02
+C0061,Company 061 Ltd,Education,Germany,Enterprise,2023-11-13
+C0062,Company 062 Ltd,Professional Services,Germany,Enterprise,2023-02-20
+C0063,Company 063 Ltd,Healthcare,Germany,Enterprise,2024-05-23
+C0064,Company 064 Ltd,Education,France,Small,2025-08-21
+C0065,Company 065 Ltd,Retail,Germany,Medium,2024-04-01
+C0066,Company 066 Ltd,Retail,United Kingdom,Small,2024-07-25
+C0067,Company 067 Ltd,Retail,France,Large,2023-02-26
+C0068,Company 068 Ltd,Healthcare,United Kingdom,Large,2023-03-20
+C0069,Company 069 Ltd,Healthcare,United Kingdom,Large,2025-06-12
+C0070,Company 070 Ltd,Technology,Ireland,Medium,2024-06-05
+C0071,Company 071 Ltd,Technology,United Kingdom,Medium,2025-01-15
+C0072,Company 072 Ltd,Education,Netherlands,Large,2023-09-13
+C0073,Company 073 Ltd,Manufacturing,Spain,Enterprise,2024-10-30
+C0074,Company 074 Ltd,Manufacturing,Netherlands,Enterprise,2025-02-15
+C0075,Company 075 Ltd,Finance,Spain,Large,2025-04-11
+C0076,Company 076 Ltd,Healthcare,Ireland,Enterprise,2024-10-21
+C0077,Company 077 Ltd,Education,Netherlands,Enterprise,2023-12-14
+C0078,Company 078 Ltd,Manufacturing,Spain,Large,2023-07-11
+C0079,Company 079 Ltd,Finance,United States,Medium,2024-02-12
+C0080,Company 080 Ltd,Retail,Germany,Small,2025-07-21
+C0081,Company 081 Ltd,Manufacturing,Netherlands,Enterprise,2025-10-09
+C0082,Company 082 Ltd,Education,Netherlands,Small,2025-05-20
+C0083,Company 083 Ltd,Education,Germany,Small,2024-05-25
+C0084,Company 084 Ltd,Finance,United States,Large,2025-06-25
+C0085,Company 085 Ltd,Manufacturing,Ireland,Enterprise,2023-11-22
+C0086,Company 086 Ltd,Retail,Spain,Medium,2024-07-21
+C0087,Company 087 Ltd,Retail,United States,Large,2025-06-19
+C0088,Company 088 Ltd,Finance,United Kingdom,Large,2023-06-15
+C0089,Company 089 Ltd,Retail,Germany,Medium,2023-05-12
+C0090,Company 090 Ltd,Manufacturing,Netherlands,Small,2024-02-28
+C0091,Company 091 Ltd,Professional Services,United States,Small,2025-02-18
+C0092,Company 092 Ltd,Healthcare,netherlands,Enterprise,2024-03-27
+C0093,Company 093 Ltd,Retail,Netherlands,Enterprise,2024-11-19
+C0094,Company 094 Ltd,Retail,Spain,Enterprise,2023-09-19
+C0095,Company 095 Ltd,Retail,Ireland,Small,2023-06-21
+C0096,Company 096 Ltd,Professional Services,Spain,Small,2024-06-16
+C0097,Company 097 Ltd,Retail,Netherlands,Enterprise,2024-07-23
+C0098,Company 098 Ltd,Retail,United States,Small,2025-08-21
+C0099,Company 099 Ltd,Technology,United Kingdom,Large,2024-04-04
+C0100,Company 100 Ltd,Education,Spain,Small,2024-05-21
+C0101,Company 101 Ltd,Manufacturing,Germany,Medium,2025-08-27
+C0102,Company 102 Ltd,Finance,Spain,Large,2025-01-25
+C0103,Company 103 Ltd,Education,Germany,Medium,2024-09-29
+C0104,Company 104 Ltd,Healthcare,United Kingdom,Enterprise,2025-03-23
+C0105,Company 105 Ltd,Manufacturing,Spain,Medium,2023-07-28
+C0106,Company 106 Ltd,Professional Services,Spain,Small,2023-03-26
+C0107,Company 107 Ltd,Education,France,Large,2023-01-26
+C0108,Company 108 Ltd,Retail,United States,Large,2025-07-30
+C0109,Company 109 Ltd,Finance,Spain,Large,2025-09-17
+C0110,Company 110 Ltd,Education,Netherlands,Large,2024-05-17
+C0111,Company 111 Ltd,Healthcare,United States,Medium,2025-08-09
+C0112,Company 112 Ltd,Retail,Ireland,Enterprise,2024-10-27
+C0113,Company 113 Ltd,Healthcare,Germany,Large,2024-07-26
+C0114,Company 114 Ltd,Healthcare,Ireland,Medium,2023-06-25
+C0115,Company 115 Ltd,Retail,Germany,Medium,2025-09-02
+C0116,Company 116 Ltd,Retail,Spain,Small,2024-08-25
+C0117,Company 117 Ltd,Finance,Germany,Large,2025-08-27
+C0118,Company 118 Ltd,Retail,Ireland,Large,2024-12-21
+C0119,Company 119 Ltd,Healthcare,Spain,Small,2024-01-30
+C0120,Company 120 Ltd,Manufacturing,France,Medium,2024-01-28
+C0121,Company 121 Ltd,Healthcare,Germany,Large,2023-07-25
+C0122,Company 122 Ltd,Finance,United States,Large,2023-01-29
+C0123,Company 123 Ltd,Healthcare,Spain,Small,2024-08-21
+C0124,Company 124 Ltd,Education,Spain,Enterprise,2023-07-30
+C0125,Company 125 Ltd,Retail,US,Large,2024-01-13
+C0126,Company 126 Ltd,Professional Services,United Kingdom,Small,2025-03-31
+C0127,Company 127 Ltd,Education,Netherlands,Medium,2023-11-02
+C0128,Company 128 Ltd,Healthcare,United States,Medium,2023-08-31
+C0129,Company 129 Ltd,Manufacturing,Ireland,Medium,2025-12-06
+C0130,Company 130 Ltd,Retail,Netherlands,Enterprise,2024-09-17
+C0131,Company 131 Ltd,Manufacturing,Ireland,Small,2024-03-01
+C0132,Company 132 Ltd,Education,Spain,Medium,2023-12-22
+C0133,Company 133 Ltd,Technology,Ireland,Enterprise,2024-08-19
+C0134,Company 134 Ltd,Education,United Kingdom,Enterprise,2023-05-26
+C0135,Company 135 Ltd,Healthcare,Spain,Medium,2025-05-20
+C0136,Company 136 Ltd,Education,United Kingdom,Large,2023-10-19
+C0137,Company 137 Ltd,Manufacturing,uk,Large,2025-06-18
+C0138,Company 138 Ltd,Healthcare,United Kingdom,Large,2025-10-21
+C0139,Company 139 Ltd,Technology,Ireland,Enterprise,2024-10-22
+C0140,Company 140 Ltd,Technology,Ireland,Small,2024-07-05
+C0141,Company 141 Ltd,Retail,Ireland,Enterprise,2024-07-23
+C0142,Company 142 Ltd,Retail,Germany,Enterprise,2023-07-06
+C0143,Company 143 Ltd,Healthcare,Netherlands,Small,2023-11-26
+C0144,Company 144 Ltd,Retail,France,Enterprise,2023-03-17
+C0145,Company 145 Ltd,Healthcare,Netherlands,Enterprise,2025-11-19
+C0146,Company 146 Ltd,Education,United States,Enterprise,2025-04-26
+C0147,Company 147 Ltd,Healthcare,United Kingdom,Enterprise,2025-06-24
+C0148,Company 148 Ltd,Manufacturing,US,Large,2025-06-16
+C0149,Company 149 Ltd,Technology,Spain,Medium,2023-11-21
+C0150,Company 150 Ltd,Manufacturing,France,Medium,2023-08-21
+C0151,Company 151 Ltd,Education,Netherlands,Enterprise,2024-08-20
+C0152,Company 152 Ltd,Retail,Ireland,Enterprise,2024-05-14
+C0153,Company 153 Ltd,Retail,Netherlands,Medium,2023-05-23
+C0154,Company 154 Ltd,Professional Services,France,Large,2023-01-06
+C0155,Company 155 Ltd,Professional Services,France,Enterprise,2023-11-01
+C0156,Company 156 Ltd,Healthcare,Netherlands,Enterprise,2025-07-21
+C0157,Company 157 Ltd,Education,France,Enterprise,2024-04-23
+C0158,Company 158 Ltd,Technology,United States,Enterprise,2025-02-19
+C0159,Company 159 Ltd,Professional Services,Netherlands,Medium,2025-10-11
+C0160,Company 160 Ltd,Manufacturing,United Kingdom,Small,2025-06-20
+C0161,Company 161 Ltd,Retail,United Kingdom,Medium,2025-04-19
+C0162,Company 162 Ltd,Finance,United States,Large,2024-11-24
+C0163,Company 163 Ltd,Education,Ireland,Large,2025-12-28
+C0164,Company 164 Ltd,Education,Netherlands,Enterprise,2023-03-15
+C0165,Company 165 Ltd,Education,Ireland,Large,2024-04-10
+C0166,Company 166 Ltd,Technology,Spain,Small,2025-06-27
+C0167,Company 167 Ltd,Technology,Germany,Small,2024-08-23
+C0168,Company 168 Ltd,Finance,France,Enterprise,2024-01-04
+C0169,Company 169 Ltd,Manufacturing,Germany,Medium,2025-10-16
+C0170,Company 170 Ltd,Retail,Ireland,Enterprise,2024-06-06
+C0171,Company 171 Ltd,Healthcare,spain,Medium,2023-06-01
+C0172,Company 172 Ltd,Manufacturing,Netherlands,Enterprise,2024-05-27
+C0173,Company 173 Ltd,Finance,Netherlands,Enterprise,2023-08-07
+C0174,Company 174 Ltd,Healthcare,Germany,Large,2023-02-14
+C0175,Company 175 Ltd,,United States,Small,2025-10-14
+C0176,Company 176 Ltd,Healthcare,United States,Medium,2024-12-22
+C0177,Company 177 Ltd,Manufacturing,Germany,Medium,2023-07-18
+C0178,Company 178 Ltd,Healthcare,Spain,Small,2025-01-17
+C0179,Company 179 Ltd,Healthcare,Spain,Enterprise,2023-12-26
+C0180,Company 180 Ltd,Manufacturing,Germany,Large,2025-12-23
+C0181,Company 181 Ltd,Professional Services,Ireland,Enterprise,2024-08-27
+C0182,Company 182 Ltd,Professional Services,Spain,Small,2023-10-16
+C0183,Company 183 Ltd,Professional Services,United States,Enterprise,2025-01-19
+C0184,Company 184 Ltd,Technology,United Kingdom,Small,2025-07-20
+C0185,Company 185 Ltd,Education,France,Enterprise,2025-01-30
+C0186,Company 186 Ltd,Retail,United Kingdom,Large,2024-03-29
+C0187,Company 187 Ltd,Professional Services,Spain,Large,2025-04-16
+C0188,Company 188 Ltd,Technology,United Kingdom,Enterprise,2023-08-26
+C0189,Company 189 Ltd,Manufacturing,United Kingdom,Enterprise,2025-01-29
+C0190,Company 190 Ltd,Education,Spain,Enterprise,2023-11-13
+C0191,Company 191 Ltd,Professional Services,Netherlands,Enterprise,2024-07-26
+C0192,Company 192 Ltd,Finance,United Kingdom,Medium,2025-01-12
+C0193,Company 193 Ltd,Healthcare,United Kingdom,Large,2023-05-05
+C0194,Company 194 Ltd,Technology,Netherlands,Enterprise,2023-07-07
+C0195,Company 195 Ltd,Education,Spain,Small,2023-04-14
+C0196,Company 196 Ltd,Finance,United States,Medium,2023-05-21
+C0197,Company 197 Ltd,Finance,United States,Medium,2024-11-03
+C0198,Company 198 Ltd,,United States,Medium,2023-09-24
+C0199,Company 199 Ltd,Finance,Ireland,Small,2023-09-27
+C0200,Company 200 Ltd,Professional Services,United Kingdom,Large,2023-02-02
+C0201,Company 201 Ltd,Finance,Germany,Small,2023-05-11
+C0202,Company 202 Ltd,Healthcare,Netherlands,Small,2025-07-14
+C0203,Company 203 Ltd,Manufacturing,Ireland,Large,2025-07-27
+C0204,Company 204 Ltd,Technology,Spain,Enterprise,2025-05-23
+C0205,Company 205 Ltd,Education,Spain,Small,2023-06-15
+C0206,Company 206 Ltd,Technology,France,Large,2025-02-19
+C0207,Company 207 Ltd,Retail,Ireland,Enterprise,2023-07-23
+C0208,Company 208 Ltd,Professional Services,United States,Medium,2025-05-30
+C0209,Company 209 Ltd,Retail,Netherlands,Enterprise,2025-03-27
+C0210,Company 210 Ltd,Healthcare,Netherlands,Large,2025-02-05
+C0211,Company 211 Ltd,Retail,Germany,Small,2023-07-10
+C0212,Company 212 Ltd,Education,Netherlands,Medium,2023-05-03
+C0213,Company 213 Ltd,Manufacturing,Ireland,Small,2025-04-21
+C0214,Company 214 Ltd,Professional Services,France,Small,2024-08-12
+C0215,Company 215 Ltd,Technology,Ireland,Medium,2023-11-13
+C0216,Company 216 Ltd,Professional Services,Spain,Large,2023-08-24
+C0217,Company 217 Ltd,Finance,United States,Small,2024-07-01
+C0218,Company 218 Ltd,Education,United Kingdom,Large,2024-12-19
+C0219,Company 219 Ltd,Finance,United Kingdom,Enterprise,2023-05-23
+C0220,Company 220 Ltd,Technology,Germany,Medium,2025-02-09
+C0221,Company 221 Ltd,Finance,Netherlands,Large,2023-06-23
+C0222,Company 222 Ltd,Professional Services,United Kingdom,Small,2024-07-11
+C0223,Company 223 Ltd,Retail,Netherlands,Enterprise,2024-07-13
+C0224,Company 224 Ltd,Technology,Germany,Small,2024-08-03
+C0225,Company 225 Ltd,Retail,Spain,Large,2023-04-04
+C0226,Company 226 Ltd,Manufacturing,Germany,Medium,2024-09-09
+C0227,Company 227 Ltd,Professional Services,Germany,Large,2023-09-03
+C0228,Company 228 Ltd,Retail,United Kingdom,Enterprise,2025-12-26
+C0229,Company 229 Ltd,Manufacturing,Spain,Large,2023-05-28
+C0230,Company 230 Ltd,Technology,Netherlands,Enterprise,2023-06-09
+C0231,Company 231 Ltd,Retail,United States,Enterprise,2024-08-15
+C0232,Company 232 Ltd,Healthcare,United Kingdom,Enterprise,2025-01-11
+C0233,Company 233 Ltd,Technology,United Kingdom,Enterprise,2025-12-09
+C0234,Company 234 Ltd,Healthcare,United Kingdom,Medium,2024-11-13
+C0235,Company 235 Ltd,Manufacturing,United States,Medium,2024-12-16
+C0236,Company 236 Ltd,Professional Services,France,Medium,2024-04-28
+C0237,Company 237 Ltd,Finance,United Kingdom,Medium,2023-06-04
+C0238,Company 238 Ltd,Education,Germany,Enterprise,2024-10-23
+C0239,Company 239 Ltd,Healthcare,United States,Small,2025-08-18
+C0240,Company 240 Ltd,Professional Services,Netherlands,Small,2024-12-21
+C0241,Company 241 Ltd,Retail,Ireland,Small,2025-01-25
+C0242,Company 242 Ltd,Education,United States,Small,2025-11-04
+C0243,Company 243 Ltd,Manufacturing,Netherlands,Small,2025-07-10
+C0244,Company 244 Ltd,Finance,United States,Enterprise,2025-10-23
+C0245,Company 245 Ltd,Retail,Germany,Large,2023-06-22
+C0246,Company 246 Ltd,Technology,Ireland,Enterprise,2025-06-18
+C0247,Company 247 Ltd,Finance,Ireland,Large,2025-03-04
+C0248,Company 248 Ltd,Education,Netherlands,Large,2023-05-15
+C0249,Company 249 Ltd,Education,France,Large,2023-11-04
+C0250,Company 250 Ltd,Education,France,Large,2024-09-27
+C0251,Company 251 Ltd,Retail,Spain,Small,2024-09-26
+C0252,Company 252 Ltd,Professional Services,Ireland,Medium,2025-12-14
+C0253,Company 253 Ltd,Retail,United Kingdom,Small,2025-01-12
+C0254,Company 254 Ltd,Finance,France,Enterprise,2024-01-29
+C0255,Company 255 Ltd,Finance,Germany,Small,2025-11-05
+C0256,Company 256 Ltd,Education,United States,Small,2024-11-20
+C0257,Company 257 Ltd,Manufacturing,United States,Medium,2024-01-06
+C0258,Company 258 Ltd,Manufacturing,United States,Medium,2025-06-15
+C0259,Company 259 Ltd,Education,United Kingdom,Enterprise,2024-08-06
+C0260,Company 260 Ltd,Retail,United States,Medium,2024-09-25
+C0261,Company 261 Ltd,Professional Services,United States,Enterprise,2025-08-03
+C0262,Company 262 Ltd,Retail,United States,Enterprise,2023-11-28
+C0263,Company 263 Ltd,Manufacturing,United States,Large,2023-04-17
+C0264,Company 264 Ltd,Healthcare,Spain,Small,2025-11-22
+C0265,Company 265 Ltd,Technology,United States,Large,2025-07-09
+C0266,Company 266 Ltd,Retail,Ireland,Medium,2025-07-12
+C0267,Company 267 Ltd,Retail,France,Large,2024-04-27
+C0268,Company 268 Ltd,Healthcare,Netherlands,Large,2023-07-22
+C0269,Company 269 Ltd,Healthcare,United States,Medium,2023-03-20
+C0270,Company 270 Ltd,Retail,France,Medium,2025-08-18
+C0271,Company 271 Ltd,Technology,Netherlands,Medium,2023-11-03
+C0272,Company 272 Ltd,Manufacturing,Ireland,Small,2024-08-13
+C0273,Company 273 Ltd,Technology,Germany,Enterprise,2023-05-09
+C0274,Company 274 Ltd,Retail,United Kingdom,Small,2025-11-21
+C0275,Company 275 Ltd,Finance,Ireland,Small,2024-12-23
+C0276,Company 276 Ltd,Finance,Germany,Small,2025-12-08
+C0277,Company 277 Ltd,Manufacturing,France,Small,2025-03-10
+C0278,Company 278 Ltd,Education,United States,Large,2024-06-03
+C0279,Company 279 Ltd,Healthcare,Spain,Small,2024-11-11
+C0280,Company 280 Ltd,Healthcare,GERMANY,Medium,2025-08-09
+C0281,Company 281 Ltd,Finance,Spain,Small,2025-07-26
+C0282,Company 282 Ltd,Technology,United Kingdom,Small,2024-10-08
+C0283,Company 283 Ltd,Professional Services,France,Large,2023-03-16
+C0284,Company 284 Ltd,Healthcare,United States,Small,2024-11-10
+C0285,Company 285 Ltd,Healthcare,France,Enterprise,2025-06-19
+C0286,Company 286 Ltd,Finance,Netherlands,Enterprise,2025-01-22
+C0287,Company 287 Ltd,Professional Services,United States,Enterprise,2023-06-11
+C0288,Company 288 Ltd,Professional Services,Netherlands,Large,2024-10-19
+C0289,Company 289 Ltd,Education,United Kingdom,Enterprise,2025-05-22
+C0290,Company 290 Ltd,Healthcare,Germany,Large,2025-06-09
+C0291,Company 291 Ltd,Professional Services,France,Small,2025-04-11
+C0292,Company 292 Ltd,Education,France,Small,2023-10-20
+C0293,Company 293 Ltd,Professional Services,United States,Medium,2023-05-18
+C0294,Company 294 Ltd,Healthcare,Germany,Small,2023-11-11
+C0295,Company 295 Ltd,Healthcare,Spain,Small,2023-10-09
+C0296,Company 296 Ltd,Healthcare,Ireland,Medium,2023-08-21
+C0297,Company 297 Ltd,Retail,United Kingdom,Small,2024-06-20
+C0298,Company 298 Ltd,Retail,United States,Large,2025-10-02
+C0299,Company 299 Ltd,Professional Services,Germany,Medium,2025-06-30
+C0300,Company 300 Ltd,Professional Services,United Kingdom,Large,2023-05-13
+C0301,Company 301 Ltd,Healthcare,Ireland,Medium,2025-01-10
+C0302,Company 302 Ltd,Finance,Ireland,Medium,2025-10-08
+C0303,Company 303 Ltd,Manufacturing,United Kingdom,Medium,2023-06-26
+C0304,Company 304 Ltd,Education,United Kingdom,Enterprise,2025-04-18
+C0305,Company 305 Ltd,Finance,United States,Small,2025-07-10
+C0306,Company 306 Ltd,Healthcare,Netherlands,Medium,2023-09-22
+C0307,Company 307 Ltd,Professional Services,Netherlands,Small,2025-11-27
+C0308,Company 308 Ltd,Finance,Germany,Medium,2024-12-09
+C0309,Company 309 Ltd,Professional Services,Ireland,Medium,2024-07-16
+C0310,Company 310 Ltd,Manufacturing,Germany,Medium,2023-11-12
+C0311,Company 311 Ltd,Education,Germany,Large,2023-03-26
+C0312,Company 312 Ltd,Technology,United States,Large,2024-03-07
+C0313,Company 313 Ltd,Manufacturing,United States,Enterprise,2024-08-16
+C0314,Company 314 Ltd,Retail,Spain,Enterprise,2024-09-01
+C0315,Company 315 Ltd,Technology,Netherlands,Enterprise,2025-09-18
+C0316,Company 316 Ltd,Manufacturing,Netherlands,Large,2024-12-08
+C0317,Company 317 Ltd,Healthcare,Netherlands,Small,2024-10-15
+C0318,Company 318 Ltd,Healthcare,Germany,Medium,2023-07-18
+C0319,Company 319 Ltd,Retail,United Kingdom,Enterprise,2024-05-23
+C0320,Company 320 Ltd,Professional Services,United States,Large,2024-01-24
+C0321,Company 321 Ltd,Manufacturing,United States,Large,2025-10-15
+C0322,Company 322 Ltd,Retail,United Kingdom,Medium,2024-03-16
+C0323,Company 323 Ltd,Technology,Ireland,Enterprise,2024-08-08
+C0324,Company 324 Ltd,Retail,Ireland,Large,2025-01-19
+C0325,Company 325 Ltd,Technology,United States,Medium,2025-01-12
+C0326,Company 326 Ltd,Retail,Ireland,Large,2023-09-01
+C0327,Company 327 Ltd,Retail,Germany,Large,2025-01-18
+C0328,Company 328 Ltd,Manufacturing,United States,Small,2023-04-03
+C0329,Company 329 Ltd,Healthcare,United Kingdom,Enterprise,2023-11-02
+C0330,Company 330 Ltd,Finance,Ireland,Large,2023-11-29
+C0331,Company 331 Ltd,Education,Netherlands,Large,2025-11-04
+C0332,Company 332 Ltd,Retail,United States,Large,2025-08-30
+C0333,Company 333 Ltd,Education,US,Enterprise,2024-09-22
+C0334,Company 334 Ltd,Professional Services,United States,Small,2025-08-29
+C0335,Company 335 Ltd,Professional Services,France,Medium,2023-04-16
+C0336,Company 336 Ltd,Manufacturing,Ireland,Enterprise,2023-10-30
+C0337,Company 337 Ltd,Technology,United States,Small,2024-01-26
+C0338,Company 338 Ltd,Retail,United Kingdom,Medium,2025-04-20
+C0339,Company 339 Ltd,Retail,Ireland,Small,2023-10-10
+C0340,Company 340 Ltd,Healthcare,Ireland,Enterprise,2025-12-12
+C0341,Company 341 Ltd,Finance,Netherlands,Large,2024-12-26
+C0342,Company 342 Ltd,Education,Spain,Large,2025-09-18
+C0343,Company 343 Ltd,Healthcare,Germany,Medium,2024-09-01
+C0344,Company 344 Ltd,Finance,United States,Enterprise,2024-10-11
+C0345,Company 345 Ltd,Professional Services,Netherlands,Large,2023-09-07
+C0346,Company 346 Ltd,Retail,Ireland,Enterprise,2024-12-07
+C0347,Company 347 Ltd,Healthcare,United States,Small,2024-12-10
+C0348,Company 348 Ltd,Education,Netherlands,Medium,2024-07-09
+C0349,Company 349 Ltd,Finance,Ireland,Medium,2024-05-11
+C0350,Company 350 Ltd,Manufacturing,United Kingdom,Medium,2023-04-18
+C0351,Company 351 Ltd,Education,United Kingdom,Medium,2023-01-11
+C0352,Company 352 Ltd,Finance,Ireland,Enterprise,2025-09-04
+C0353,Company 353 Ltd,Healthcare,Spain,Small,2023-07-03
+C0354,Company 354 Ltd,Manufacturing,Spain,Small,2023-12-25
+C0355,Company 355 Ltd,Finance,Netherlands,Small,2025-03-24
+C0356,Company 356 Ltd,Education,United States,Large,2023-03-18
+C0357,Company 357 Ltd,Manufacturing,United Kingdom,Large,2024-08-05
+C0358,Company 358 Ltd,Manufacturing,Netherlands,Medium,2025-10-29
+C0359,Company 359 Ltd,Professional Services,Netherlands,Medium,2025-07-28
+C0360,Company 360 Ltd,,Spain,Large,2024-08-27
+C0361,Company 361 Ltd,Finance,Ireland,Enterprise,2025-05-25
+C0362,Company 362 Ltd,Retail,Ireland,Medium,2023-10-15
+C0363,Company 363 Ltd,,Netherlands,Enterprise,2024-04-27
+C0364,Company 364 Ltd,Healthcare,Netherlands,Small,2024-06-19
+C0365,Company 365 Ltd,Finance,Spain,Small,2025-08-11
+C0366,Company 366 Ltd,Education,France,Large,2023-08-29
+C0367,Company 367 Ltd,Healthcare,Spain,Medium,2024-03-24
+C0368,Company 368 Ltd,Retail,Germany,Large,2025-05-01
+C0369,Company 369 Ltd,Retail,Spain,Medium,2024-05-21
+C0370,Company 370 Ltd,Professional Services,Spain,Enterprise,2025-12-17
+C0371,Company 371 Ltd,Manufacturing,Spain,Medium,2023-11-03
+C0372,Company 372 Ltd,Manufacturing,Germany,Medium,2025-09-28
+C0373,Company 373 Ltd,Retail,United Kingdom,Enterprise,2023-09-28
+C0374,Company 374 Ltd,Manufacturing,Ireland,Enterprise,2024-09-23
+C0375,Company 375 Ltd,,spain,Medium,2023-05-30
+C0376,Company 376 Ltd,Education,United Kingdom,Small,2023-05-22
+C0377,Company 377 Ltd,Finance,netherlands,Enterprise,2025-02-05
+C0378,Company 378 Ltd,Retail,Netherlands,Medium,2024-12-13
+C0379,Company 379 Ltd,Manufacturing,United Kingdom,Medium,2024-04-01
+C0380,Company 380 Ltd,Healthcare,United States,Enterprise,2025-12-25
+C0381,Company 381 Ltd,Finance,Netherlands,Medium,2024-07-18
+C0382,Company 382 Ltd,Education,Germany,Small,2025-05-08
+C0383,Company 383 Ltd,Technology,Ireland,Small,2023-07-26
+C0384,Company 384 Ltd,Finance,Ireland,Enterprise,2025-06-17
+C0385,Company 385 Ltd,Professional Services,Germany,Small,2023-10-14
+C0386,Company 386 Ltd,Finance,Ireland,Large,2024-10-18
+C0387,Company 387 Ltd,Finance,Germany,Medium,2025-04-26
+C0388,Company 388 Ltd,Manufacturing,France,Medium,2025-05-24
+C0389,Company 389 Ltd,Healthcare,Ireland,Enterprise,2025-12-10
+C0390,Company 390 Ltd,Retail,France,Enterprise,2024-01-12
+C0391,Company 391 Ltd,Finance,United States,Large,2023-10-23
+C0392,Company 392 Ltd,Technology,United States,Enterprise,2025-12-21
+C0393,Company 393 Ltd,Healthcare,Germany,Small,2025-07-10
+C0394,Company 394 Ltd,Manufacturing,United States,Medium,2023-04-16
+C0395,Company 395 Ltd,Manufacturing,France,Small,2024-01-21
+C0396,Company 396 Ltd,Education,United States,Medium,2025-09-08
+C0397,Company 397 Ltd,Healthcare,Germany,Small,2024-03-09
+C0398,Company 398 Ltd,Technology,Germany,Enterprise,2024-05-11
+C0399,Company 399 Ltd,Finance,Spain,Medium,2024-10-20
+C0400,Company 400 Ltd,Retail,United States,Large,2024-09-23
+C0401,Company 401 Ltd,Retail,France,Enterprise,2024-10-17
+C0402,Company 402 Ltd,Retail,Germany,Medium,2023-10-26
+C0403,Company 403 Ltd,Manufacturing,United Kingdom,Enterprise,2024-08-27
+C0404,Company 404 Ltd,Finance,Germany,Medium,2025-10-19
+C0405,Company 405 Ltd,Education,Ireland,Enterprise,2025-10-01
+C0406,Company 406 Ltd,Professional Services,Netherlands,Medium,2025-09-27
+C0407,Company 407 Ltd,Manufacturing,Germany,Small,2025-12-09
+C0408,Company 408 Ltd,Technology,United Kingdom,Small,2023-01-14
+C0409,Company 409 Ltd,Education,Netherlands,Medium,2023-01-19
+C0410,Company 410 Ltd,Healthcare,Germany,Enterprise,2025-09-26
+C0411,Company 411 Ltd,Technology,United kingdom,Large,2024-08-10
+C0412,Company 412 Ltd,Education,United Kingdom,Medium,2023-08-08
+C0413,Company 413 Ltd,Finance,United Kingdom,Large,2024-12-26
+C0414,Company 414 Ltd,Technology,France,Enterprise,2025-07-29
+C0415,Company 415 Ltd,Education,Ireland,Small,2023-03-06
+C0416,Company 416 Ltd,Retail,United Kingdom,Small,2023-01-20
+C0417,Company 417 Ltd,Retail,Spain,Large,2023-07-15
+C0418,Company 418 Ltd,Finance,Ireland,Enterprise,2024-07-09
+C0419,Company 419 Ltd,Education,United Kingdom,Small,2024-01-03
+C0420,Company 420 Ltd,Finance,United States,Enterprise,2023-06-07
+C0421,Company 421 Ltd,Finance,France,Enterprise,2024-11-10
+C0422,Company 422 Ltd,Finance,Netherlands,Small,2025-10-22
+C0423,Company 423 Ltd,Technology,Spain,Medium,2023-06-05
+C0424,Company 424 Ltd,Manufacturing,France,Enterprise,2024-10-30
+C0425,Company 425 Ltd,Professional Services,United Kingdom,Enterprise,2024-04-12
+C0426,Company 426 Ltd,Retail,France,Enterprise,2023-06-25
+C0427,Company 427 Ltd,Professional Services,United States,Small,2023-06-18
+C0428,Company 428 Ltd,Education,France,Medium,2025-03-08
+C0429,Company 429 Ltd,,France,Large,2025-06-29
+C0430,Company 430 Ltd,Technology,France,Medium,2025-06-01
+C0431,Company 431 Ltd,Manufacturing,Netherlands,Small,2023-07-03
+C0432,Company 432 Ltd,Manufacturing,France,Large,2025-02-27
+C0433,Company 433 Ltd,Retail,United Kingdom,Medium,2025-12-03
+C0434,Company 434 Ltd,Finance,Germany,Large,2024-07-03
+C0435,Company 435 Ltd,Finance,Netherlands,Enterprise,2024-09-05
+C0436,Company 436 Ltd,Healthcare,Netherlands,Medium,2025-10-12
+C0437,Company 437 Ltd,Retail,Ireland,Large,2023-01-14
+C0438,Company 438 Ltd,Manufacturing,Netherlands,Large,2025-06-20
+C0439,Company 439 Ltd,Professional Services,France,Medium,2024-09-07
+C0440,Company 440 Ltd,Education,France,Large,2023-12-30
+C0441,Company 441 Ltd,Healthcare,Netherlands,Enterprise,2024-05-11
+C0442,Company 442 Ltd,Professional Services,France,Large,2023-08-22
+C0443,Company 443 Ltd,Manufacturing,Ireland,Small,2025-08-03
+C0444,Company 444 Ltd,Professional Services,Spain,Small,2025-04-17
+C0445,Company 445 Ltd,Education,Spain,Large,2023-11-12
+C0446,Company 446 Ltd,Retail,Spain,Enterprise,2025-03-31
+C0447,Company 447 Ltd,Professional Services,Ireland,Small,2025-01-06
+C0448,Company 448 Ltd,Manufacturing,Spain,Small,2023-08-12
+C0449,Company 449 Ltd,Education,United States,Small,2025-03-29
+C0450,Company 450 Ltd,Professional Services,United States,Small,2023-07-21
+C0451,Company 451 Ltd,Education,France,Medium,2025-07-01
+C0452,Company 452 Ltd,Professional Services,France,Medium,2024-12-07
+C0453,Company 453 Ltd,Healthcare,United Kingdom,Small,2023-08-26
+C0454,Company 454 Ltd,Finance,United States,Large,2025-07-21
+C0455,Company 455 Ltd,Retail,United States,Small,2025-06-16
+C0456,Company 456 Ltd,Healthcare,Spain,Small,2023-08-24
+C0457,Company 457 Ltd,Education,United Kingdom,Medium,2024-05-14
+C0458,Company 458 Ltd,Finance,Ireland,Enterprise,2025-08-04
+C0459,Company 459 Ltd,Education,Germany,Enterprise,2025-03-21
+C0460,Company 460 Ltd,Finance,United Kingdom,Enterprise,2025-03-07
+C0461,Company 461 Ltd,Finance,United Kingdom,Small,2023-07-28
+C0462,Company 462 Ltd,Finance,United States,Medium,2025-07-26
+C0463,Company 463 Ltd,Professional Services,United Kingdom,Large,2025-03-06
+C0464,Company 464 Ltd,Technology,Ireland,Enterprise,2023-12-20
+C0465,Company 465 Ltd,Professional Services,United States,Small,2023-10-02
+C0466,Company 466 Ltd,Healthcare,France,Large,2023-10-17
+C0467,Company 467 Ltd,Manufacturing,Ireland,Enterprise,2025-05-16
+C0468,Company 468 Ltd,Manufacturing,Germany,Medium,2023-12-08
+C0469,Company 469 Ltd,Finance,Netherlands,Enterprise,2023-04-20
+C0470,Company 470 Ltd,Technology,United States,Medium,2025-02-25
+C0471,Company 471 Ltd,Retail,Ireland,Enterprise,2025-05-01
+C0472,Company 472 Ltd,Retail,Spain,Small,2024-03-27
+C0473,Company 473 Ltd,Manufacturing,France,Enterprise,2025-10-11
+C0474,Company 474 Ltd,Manufacturing,Ireland,Large,2023-03-27
+C0475,Company 475 Ltd,Manufacturing,United States,Enterprise,2023-07-29
+C0476,Company 476 Ltd,Professional Services,Spain,Small,2025-07-10
+C0477,Company 477 Ltd,Professional Services,France,Small,2024-04-30
+C0478,Company 478 Ltd,Manufacturing,Germany,Enterprise,2023-12-06
+C0479,Company 479 Ltd,Finance,Ireland,Small,2024-12-19
+C0480,Company 480 Ltd,Manufacturing,Ireland,Large,2024-08-15
+C0481,Company 481 Ltd,Professional Services,Ireland,Small,2023-10-05
+C0482,Company 482 Ltd,Technology,United States,Medium,2023-09-29
+C0483,Company 483 Ltd,Healthcare,Germany,Enterprise,2025-09-29
+C0484,Company 484 Ltd,Healthcare,Germany,Enterprise,2025-07-14
+C0485,Company 485 Ltd,Professional Services,United Kingdom,Large,2025-01-25
+C0486,Company 486 Ltd,Healthcare,Netherlands,Small,2025-07-27
+C0487,Company 487 Ltd,Healthcare,Spain,Enterprise,2024-03-22
+C0488,Company 488 Ltd,Retail,Netherlands,Large,2024-11-22
+C0489,Company 489 Ltd,Manufacturing,Ireland,Large,2023-04-10
+C0490,Company 490 Ltd,Professional Services,United Kingdom,Small,2023-09-12
+C0491,Company 491 Ltd,,United States,Enterprise,2024-02-19
+C0492,Company 492 Ltd,Education,Spain,Large,2023-07-11
+C0493,Company 493 Ltd,Technology,Spain,Medium,2023-04-17
+C0494,Company 494 Ltd,Education,Netherlands,Medium,2025-05-29
+C0495,Company 495 Ltd,,Spain,Enterprise,2023-06-09
+C0496,Company 496 Ltd,Manufacturing,Germany,Small,2023-01-17
+C0497,Company 497 Ltd,Technology,Spain,Enterprise,2023-09-28
+C0498,Company 498 Ltd,Retail,Netherlands,Small,2023-07-31
+C0499,Company 499 Ltd,Healthcare,France,Medium,2023-10-20
+C0500,Company 500 Ltd,Technology,United Kingdom,Medium,2025-06-20
+C0050,Company 050 Ltd,Technology,Ireland,Medium,2025-11-02
+C0200,Company 200 Ltd,Professional Services,United Kingdom,Large,2023-02-02
+C0350,Company 350 Ltd,Manufacturing,United Kingdom,Medium,2023-04-18

@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: stg_invoices
+    description: Cleaned and standardized invoice data.
+
+    columns:
+      - name: invoice_id
+        data_tests:
+          - not_null
+          - unique
+
+      - name: subscription_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_subscriptions')
+                field: subscription_id
+              config:
+                severity: warn
+
+      - name: payment_status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - Paid
+                  - Pending
+                  - Failed
+                  - Refunded
+
+      - name: amount
+        data_tests:
+          - not_null

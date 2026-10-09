@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+license_sales_dbt/target/
+license_sales_dbt/logs/
+license_sales_dbt/dbt_packages/
+
+logs/

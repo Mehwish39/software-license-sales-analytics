@@ -1,0 +1,21 @@
+sales_rep_id,sales_rep_name,region,sales_team,hire_date
+R001,Sales Rep 01,UK & Ireland,Commercial,2022-12-21
+R002,Sales Rep 02,DACH,Commercial,2025-01-19
+R003,Sales Rep 03,France,Enterprise,2022-03-13
+R004,Sales Rep 04,Benelux,Commercial,2024-07-10
+R005,Sales Rep 05,Southern Europe,Commercial,2025-03-13
+R006,Sales Rep 06,North America,Enterprise,2021-11-07
+R007,Sales Rep 07,UK & Ireland,Commercial,2023-04-24
+R008,Sales Rep 08,DACH,Commercial,2024-06-15
+R009,Sales Rep 09,France,Enterprise,2024-11-07
+R010,Sales Rep 10,Benelux,Commercial,2023-06-26
+R011,Sales Rep 11,Southern Europe,Commercial,2022-03-21
+R012,Sales Rep 12,North America,Enterprise,2021-06-27
+R013,Sales Rep 13,UK & Ireland,Commercial,2021-07-25
+R014,Sales Rep 14,DACH,Commercial,2021-10-14
+R015,Sales Rep 15,France,Enterprise,2025-03-22
+R016,Sales Rep 16,Benelux,Commercial,2021-09-10
+R017,Sales Rep 17,Southern Europe,Commercial,2024-04-22
+R018,Sales Rep 18,North America,Enterprise,2025-02-04
+R019,Sales Rep 19,UK & Ireland,Commercial,2023-02-26
+R020,Sales Rep 20,DACH,Commercial,2022-12-21
